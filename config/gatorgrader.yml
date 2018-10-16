@@ -22,7 +22,7 @@ writing/reflection.md:
     --paragraphs 2 --exact
     --words 100
 # --> check the number of commits beyond a threshold
---commits 10
+--commits 14
 # --> check that the program executes and produces set lines of output
 --command "gradle -q --console plain run" --executes
 --command "gradle -q --console plain run" --count 8 --exact
